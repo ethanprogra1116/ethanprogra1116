@@ -1,61 +1,62 @@
-# ¡Hola! Soy Ethan 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la programación, Arduino y el procesamiento digital de señales.
+###
 
-## 🎯 Sobre mí
+<h3 align="left">My name is Ethan. And I'm  a web developer. You can check my work at emck.dev</h3>
 
-- 💻 Programador con experiencia en **C**, **Python** y **JavaScript**
-- - 🔌 Entusiasta de **Arduino** y la **bioinstrumentación aplicada**
-  - - 📊 Interesado en **Digital Signal Processing (DSP)**
-    - - 🌐 Desarrollador web con enfoque en proyectos innovadores
-      - - 📚 Siempre aprendiendo nuevas tecnologías
-       
-        - ## 🚀 Lo que estoy haciendo ahora
-       
-        - - 🔨 Trabajando en proyectos de desarrollo web y backend
-          - - 📖 Aprendiendo más sobre procesamiento de señales digitales
-            - - 🤝 Buscando colaborar en proyectos interesantes
-              - - ❓ Abierto a ayudar en problemas técnicos
-               
-                - ## 💡 Habilidades
-               
-                - ### Lenguajes de Programación
-                - - **C** - Sistemas embebidos y Arduino
-                  - - **Python** - Análisis de datos y DSP
-                    - - **JavaScript** - Desarrollo web frontend
-                      - - **Jupyter Notebooks** - Análisis interactivo
-                       
-                        - ### Tecnologías
-                        - - Arduino y microcontroladores
-                          - - Procesamiento de Señales Digitales
-                            - - Web Development
-                              - - Control de versiones (Git/GitHub)
-                               
-                                - ## 📁 Proyectos Destacados
-                               
-                                - Puedes ver mis proyectos en la sección de [repositorios](https://github.com/ethanprogra1116?tab=repositories). Algunos destacados:
-                               
-                                - - **codigos_arduino** - Colección de códigos para proyectos Arduino con bioinstrumentación
-                                  - - **ThinkDSP** - Trabajos relacionados con procesamiento digital de señales
-                                    - - **Proyecto Yurek** - Proyecto colaborativo reciente
-                                      - - **Portfolio** - Mi sitio web de portafolio
-                                       
-                                        - ## 📊 Estadísticas
-                                       
-                                        - - 117 contribuciones en el último año
-                                          - - 18 repositorios públicos
-                                            - - Apasionado por compartir conocimiento
-                                             
-                                              - ## 🔗 Conecta Conmigo
-                                             
-                                              - - 🌐 Sitio web: [emck.dev](http://emck.dev)
-                                                - - 📧 Puedes contactarme a través de GitHub Issues
-                                                  - - 🐙 GitHub: [@ethanprogra1116](https://github.com/ethanprogra1116)
-                                                   
-                                                    - ## 🎓 Mi Filosofía
-                                                   
-                                                    - Creo en el aprendizaje continuo y en contribuir a la comunidad de programadores. Me encanta resolver problemas, crear soluciones innovadoras y colaborar con otros desarrolladores.
-                                                   
-                                                    - ---
+###
 
-                                                    *¡Gracias por visitar mi perfil! Si te interesa colaborar o simplemente quieres charlar sobre programación, no dudes en contactarme.* 😊
+<p align="left">I also study Biomedical Engineering at Uni so I like programming Microcontrollers in C ;)</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+</div>
+
+###
+
+## 🎯 About Me
+
+- 💻 Experience in **C**, **JS/TS** and **Python**
+- ⚛️ Love for Biomedical Enginnering - Bioinstrumentation, DSP, Image processing
+- 🌐 Web Developer
+- 📚 Cronically learning new things
+
+## 💡 Habilities
+
+### Programming Languages
+
+- **C** - Embedded Systems
+- **Python** - Data Science and Digital Image Processing
+- **JavaScript** - Web Dev Frontend
+- **Scheme** - My love affair with functional programming
+
+
+## 🔗 Reach me
+
+- 🌐 Web: [emck.dev](http://emck.dev)
+- 📧 Github Issues
+- 🐙 GitHub: [@ethanprogra1116](https://github.com/ethanprogra1116)
