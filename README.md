@@ -1,16 +1,61 @@
-## Hi there 👋
+# ¡Hola! Soy Ethan 👋
 
-<!--
-**ethanprogra1116/ethanprogra1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la programación, Arduino y el procesamiento digital de señales.
 
-Here are some ideas to get you started:
+## 🎯 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programador con experiencia en **C**, **Python** y **JavaScript**
+- - 🔌 Entusiasta de **Arduino** y la **bioinstrumentación aplicada**
+  - - 📊 Interesado en **Digital Signal Processing (DSP)**
+    - - 🌐 Desarrollador web con enfoque en proyectos innovadores
+      - - 📚 Siempre aprendiendo nuevas tecnologías
+       
+        - ## 🚀 Lo que estoy haciendo ahora
+       
+        - - 🔨 Trabajando en proyectos de desarrollo web y backend
+          - - 📖 Aprendiendo más sobre procesamiento de señales digitales
+            - - 🤝 Buscando colaborar en proyectos interesantes
+              - - ❓ Abierto a ayudar en problemas técnicos
+               
+                - ## 💡 Habilidades
+               
+                - ### Lenguajes de Programación
+                - - **C** - Sistemas embebidos y Arduino
+                  - - **Python** - Análisis de datos y DSP
+                    - - **JavaScript** - Desarrollo web frontend
+                      - - **Jupyter Notebooks** - Análisis interactivo
+                       
+                        - ### Tecnologías
+                        - - Arduino y microcontroladores
+                          - - Procesamiento de Señales Digitales
+                            - - Web Development
+                              - - Control de versiones (Git/GitHub)
+                               
+                                - ## 📁 Proyectos Destacados
+                               
+                                - Puedes ver mis proyectos en la sección de [repositorios](https://github.com/ethanprogra1116?tab=repositories). Algunos destacados:
+                               
+                                - - **codigos_arduino** - Colección de códigos para proyectos Arduino con bioinstrumentación
+                                  - - **ThinkDSP** - Trabajos relacionados con procesamiento digital de señales
+                                    - - **Proyecto Yurek** - Proyecto colaborativo reciente
+                                      - - **Portfolio** - Mi sitio web de portafolio
+                                       
+                                        - ## 📊 Estadísticas
+                                       
+                                        - - 117 contribuciones en el último año
+                                          - - 18 repositorios públicos
+                                            - - Apasionado por compartir conocimiento
+                                             
+                                              - ## 🔗 Conecta Conmigo
+                                             
+                                              - - 🌐 Sitio web: [emck.dev](http://emck.dev)
+                                                - - 📧 Puedes contactarme a través de GitHub Issues
+                                                  - - 🐙 GitHub: [@ethanprogra1116](https://github.com/ethanprogra1116)
+                                                   
+                                                    - ## 🎓 Mi Filosofía
+                                                   
+                                                    - Creo en el aprendizaje continuo y en contribuir a la comunidad de programadores. Me encanta resolver problemas, crear soluciones innovadoras y colaborar con otros desarrolladores.
+                                                   
+                                                    - ---
+
+                                                    *¡Gracias por visitar mi perfil! Si te interesa colaborar o simplemente quieres charlar sobre programación, no dudes en contactarme.* 😊
