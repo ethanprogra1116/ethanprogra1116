@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ethan. And I'm  a web developer. You can check my work at emck.dev</h3>
+<h3 align="left">My name is Ethan. And I'm  a web developer. You can check my work at <a href="emck.dev">emck.dev</a></h3>
 
 ###
 
@@ -10,11 +10,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ethanprogra1116/ethanprogra1116/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -38,20 +33,11 @@
 
 ###
 
-## 🎯 About Me
+## 💡 Programming Languages
 
-- 💻 Experience in **C**, **JS/TS** and **Python**
-- ⚛️ Love for Biomedical Enginnering - Bioinstrumentation, DSP, Image processing
-- 🌐 Web Developer
-- 📚 Cronically learning new things
-
-## 💡 Habilities
-
-### Programming Languages
-
+- **JavaScript** - Web Dev Frontend
 - **C** - Embedded Systems
 - **Python** - Data Science and Digital Image Processing
-- **JavaScript** - Web Dev Frontend
 - **Scheme** - My love affair with functional programming
 
 
