@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ethan. And I'm  a web developer. You can check my work at <a href="https://emck.dev">emck.dev</a></h3>
+<h3 align="left">My name is Ethan. And I'm  a web developer. You can check my work at <a href="https://emck.dev" target="_blank">emck.dev</a></h3>
 
 ###
 
