@@ -35,14 +35,14 @@
 
 ## 💡 Programming Languages
 
-- **JavaScript** - Web Dev Frontend
-- **C** - Embedded Systems
-- **Python** - Data Science and Digital Image Processing
+- **JavaScript/TypeScript** - Full Stack Development with huge experience in Angular and React
+- **C** - Embedded Systems and Systems Programming
+- **Python** - Data Science, Digital Image Processing and Deep Learning
 - **Scheme** - My love affair with functional programming
 
 
 ## 🔗 Reach me
 
-- 🌐 Web: [emck.dev](http://emck.dev)
+- 🌐 Web: [emck.dev](https://emck.dev)
 - 📧 Github Issues
 - 🐙 GitHub: [@ethanprogra1116](https://github.com/ethanprogra1116)
